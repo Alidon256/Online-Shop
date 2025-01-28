@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "454541679029",
+    "project_id": "alidon-e836f",
+    "storage_bucket": "alidon-e836f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454541679029:android:e4e45350591bc620eda1fc",
+        "android_client_info": {
+          "package_name": "com.example.alidon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0_zMQyTxLy_UDba-r3y3J_1qx4EMmaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454541679029:android:db28a81f1f185a48eda1fc",
+        "android_client_info": {
+          "package_name": "com.example.buyonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0_zMQyTxLy_UDba-r3y3J_1qx4EMmaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454541679029:android:8f437b8f69dcd01deda1fc",
+        "android_client_info": {
+          "package_name": "com.example.customerdetails2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0_zMQyTxLy_UDba-r3y3J_1qx4EMmaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
